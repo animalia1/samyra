@@ -1,0 +1,24 @@
+#boite
+{
+width:100px;
+height:30px;
+margin:auto;
+background-color:blue;
+}
+ <script type="text/javascript">
+                                    var max=0;
+                                    function disableButton(btn)
+
+                                    {
+                                        max++;
+
+                                        if(max==2)
+                                        {
+                                            document.getElementById(btn.id).disabled = true;
+                                            btn1.style.color="red";
+
+                                        }
+
+
+                                    }
+                    </script>

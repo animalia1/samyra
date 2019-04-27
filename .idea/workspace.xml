@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d84de779-6751-4d3e-86d1-31578bd3ce5f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="crud_marketing" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backoffice/views/ajouterClient.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="48" column="2" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontoffice/views/verif_user.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/frontoffice/views/my-account.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="575" column="14" selection-start-line="535" selection-start-column="8" selection-end-line="575" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontoffice/views/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2261">
+              <caret line="133" column="9" selection-start-line="133" selection-start-column="9" selection-end-line="133" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backoffice/entities/client.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backoffice/core/promotion_core.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2227">
+              <caret line="131" column="32" selection-start-line="131" selection-start-column="13" selection-end-line="131" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontoffice/views/promo_event.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="11" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backoffice/views/afficherEvenement.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1581">
+              <caret line="93" column="9" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backoffice/views/form-events.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2057">
+              <caret line="121" column="40" selection-start-line="121" selection-start-column="40" selection-end-line="127" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backoffice/core/events_core.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2346">
+              <caret line="138" column="1" selection-start-line="130" selection-end-line="138" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>for</find>
+      <find>fr</find>
+      <find>smart</find>
+      <find>table</find>
+      <find>prom</find>
+      <find>IMG</find>
+      <find>shop</find>
+      <find>tout</find>
+      <find>JE</find>
+      <find>bg_1920x631</find>
+      <find>winkle</find>
+      <find>connec</find>
+      <find>nav</find>
+      <find>promotio</find>
+      <find>solde</find>
+      <find>add</find>
+      <find>cat</find>
+      <find>new</find>
+      <find>liv</find>
+      <find>logi</find>
+      <find>login</find>
+      <find>inpu</find>
+      <find>subscribe</find>
+      <find>username or</find>
+      <find>dog</find>
+      <find>form</find>
+      <find>LOGIN</find>
+      <find>se de</find>
+      <find>ref</find>
+      <find>username</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/backoffice/entities/client.php" />
+        <option value="$PROJECT_DIR$/backoffice/views/ajouterUtilisateur.php" />
+        <option value="$PROJECT_DIR$/backoffice/views/ajouterClient.php" />
+        <option value="$PROJECT_DIR$/frontoffice/views/rechercherClient.php" />
+        <option value="$PROJECT_DIR$/backoffice/views/supprimerEvenement.php" />
+        <option value="$PROJECT_DIR$/backoffice/views/rechercherClient.php" />
+        <option value="$PROJECT_DIR$/frontoffice/views/collection.html" />
+        <option value="$PROJECT_DIR$/frontoffice/views/promo_event.html" />
+        <option value="$PROJECT_DIR$/backoffice/core/clients_core.php" />
+        <option value="$PROJECT_DIR$/frontoffice/views/pe.php" />
+        <option value="$PROJECT_DIR$/frontoffice/views/signup.html" />
+        <option value="$PROJECT_DIR$/frontoffice/views/header.php" />
+        <option value="$PROJECT_DIR$/backoffice/views/signup.html" />
+        <option value="$PROJECT_DIR$/frontoffice/views/formulaire_inscription.php" />
+        <option value="$PROJECT_DIR$/backoffice/views/dist/css/form.css" />
+        <option value="$PROJECT_DIR$/frontoffice/views/signup.php" />
+        <option value="$PROJECT_DIR$/frontoffice/views/formulaire_inscription.html" />
+        <option value="$PROJECT_DIR$/frontoffice/views/formulaire_validation.php" />
+        <option value="$PROJECT_DIR$/frontoffice/views/formulaire_validation.html" />
+        <option value="$PROJECT_DIR$/frontoffice/views/my-account.html" />
+        <option value="$PROJECT_DIR$/frontoffice/views/css/form.css" />
+        <option value="$PROJECT_DIR$/frontoffice/views/ajouterclient.php" />
+        <option value="$PROJECT_DIR$/frontoffice/views/authentif_class.php" />
+        <option value="$PROJECT_DIR$/frontoffice/views/logout.php" />
+        <option value="$PROJECT_DIR$/frontoffice/views/index.html" />
+        <option value="$PROJECT_DIR$/frontoffice/views/verif_user.php" />
+        <option value="$PROJECT_DIR$/frontoffice/entities/participant.php" />
+        <option value="$PROJECT_DIR$/backoffice/entities/evenement.php" />
+        <option value="$PROJECT_DIR$/backoffice/entities/promotion.php" />
+        <option value="$PROJECT_DIR$/frontoffice/core/clients_core.php" />
+        <option value="$PROJECT_DIR$/frontoffice/core/participantC.php" />
+        <option value="$PROJECT_DIR$/backoffice/views/modifierPromotion.php" />
+        <option value="$PROJECT_DIR$/backoffice/views/form_promotion.html" />
+        <option value="$PROJECT_DIR$/backoffice/views/header.php" />
+        <option value="$PROJECT_DIR$/backoffice/views/confirmation.html" />
+        <option value="$PROJECT_DIR$/backoffice/views/ajouterEvenement.php" />
+        <option value="$PROJECT_DIR$/backoffice/views/form-events.html" />
+        <option value="$PROJECT_DIR$/backoffice/views/form-events.php" />
+        <option value="$PROJECT_DIR$/frontoffice/views/shop-detail-1.html" />
+        <option value="$PROJECT_DIR$/backoffice/views/modifierEvenement.php" />
+        <option value="$PROJECT_DIR$/frontoffice/views/shop-detail-1.php" />
+        <option value="$PROJECT_DIR$/frontoffice/views/participer.php" />
+        <option value="$PROJECT_DIR$/backoffice/views/afficherPromotion.php" />
+        <option value="$PROJECT_DIR$/backoffice/core/promotion_core.php" />
+        <option value="$PROJECT_DIR$/backoffice/views/rechercherpromotion.php" />
+        <option value="$PROJECT_DIR$/backoffice/core/events_core.php" />
+        <option value="$PROJECT_DIR$/backoffice/views/afficherEvenement.php" />
+        <option value="$PROJECT_DIR$/frontoffice/views/authentification.php" />
+        <option value="$PROJECT_DIR$/frontoffice/views/promo_event.php" />
+        <option value="$PROJECT_DIR$/frontoffice/views/footer.php" />
+        <option value="$PROJECT_DIR$/frontoffice/views/my-account.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-19" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="crud_marketing_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crud_marketing_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crud_marketing_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crud_marketing_2" type="462c0819:PsiDirectoryNode" />
+              <item name="backoffice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crud_marketing_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crud_marketing_2" type="462c0819:PsiDirectoryNode" />
+              <item name="backoffice" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crud_marketing_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crud_marketing_2" type="462c0819:PsiDirectoryNode" />
+              <item name="backoffice" type="462c0819:PsiDirectoryNode" />
+              <item name="entities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crud_marketing_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crud_marketing_2" type="462c0819:PsiDirectoryNode" />
+              <item name="backoffice" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crud_marketing_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crud_marketing_2" type="462c0819:PsiDirectoryNode" />
+              <item name="frontoffice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crud_marketing_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crud_marketing_2" type="462c0819:PsiDirectoryNode" />
+              <item name="frontoffice" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crud_marketing_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crud_marketing_2" type="462c0819:PsiDirectoryNode" />
+              <item name="frontoffice" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\crud_marketing_2\backoffice\views" />
+      <recent name="C:\Users\Samyra\PhpstormProjects\crud_marketing\views\themeforest_winkle\html\e-commerce" />
+      <recent name="C:\Users\Samyra\PhpstormProjects\crud_marketing\backoffice" />
+      <recent name="C:\Users\Samyra\PhpstormProjects\crud_marketing\entities" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.crud_marketing">
+    <configuration name="connexion.php" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/crud_marketing/connexion.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="crud_marketing" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="evenement.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/backoffice/entities/evenement.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.connexion.php" />
+      <item itemvalue="PHP Script.evenement.php" />
+      <item itemvalue="PHPUnit.crud_marketing" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.crud_marketing" />
+        <item itemvalue="PHP Script.evenement.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d84de779-6751-4d3e-86d1-31578bd3ce5f" name="Default Changelist" comment="" />
+      <created>1553169749430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553169749430</updated>
+      <workItem from="1553169751093" duration="13746000" />
+      <workItem from="1553358154618" duration="942000" />
+      <workItem from="1553366682210" duration="5891000" />
+      <workItem from="1553427035968" duration="3224000" />
+      <workItem from="1553430484913" duration="2365000" />
+      <workItem from="1553438144387" duration="14000" />
+      <workItem from="1553439243926" duration="13000" />
+      <workItem from="1553439569510" duration="11930000" />
+      <workItem from="1553464362185" duration="49352000" />
+      <workItem from="1553638599343" duration="30865000" />
+      <workItem from="1553822373176" duration="6536000" />
+      <workItem from="1553968823299" duration="28621000" />
+      <workItem from="1554116820169" duration="1631000" />
+      <workItem from="1554121435899" duration="5900000" />
+      <workItem from="1554136826259" duration="619000" />
+      <workItem from="1554407082341" duration="10517000" />
+      <workItem from="1554468416209" duration="6351000" />
+      <workItem from="1554594504215" duration="4679000" />
+      <workItem from="1554599784163" duration="17766000" />
+      <workItem from="1554748371487" duration="24129000" />
+      <workItem from="1554849498279" duration="273000" />
+      <workItem from="1554921674746" duration="7000" />
+      <workItem from="1554930025337" duration="13494000" />
+      <workItem from="1554996938334" duration="23600000" />
+      <workItem from="1555077747662" duration="2465000" />
+      <workItem from="1555194085372" duration="6965000" />
+      <workItem from="1555449032707" duration="7036000" />
+      <workItem from="1555591270497" duration="63000" />
+      <workItem from="1555591557413" duration="3975000" />
+      <workItem from="1555663263751" duration="24783000" />
+      <workItem from="1555750653664" duration="16542000" />
+      <workItem from="1555900497490" duration="2157000" />
+      <workItem from="1555934537916" duration="8346000" />
+      <workItem from="1556059327022" duration="7834000" />
+      <workItem from="1556274313701" duration="4231000" />
+      <workItem from="1556335933671" duration="744000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="347606000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990476" visible="true" weight="0.39019033" />
+      <window_info id="Structure" order="1" sideWeight="0.50095236" side_tool="true" weight="0.26127526" />
+      <window_info id="Favorites" order="2" sideWeight="0.50095236" side_tool="true" weight="0.26127526" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4968896" weight="0.054054055" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5031104" side_tool="true" weight="0.054054055" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32972974" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.055219363" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990476" visible="true" weight="0.38426626" />
+      <window_info id="Structure" order="1" sideWeight="0.50095236" side_tool="true" weight="0.26127526" />
+      <window_info id="Favorites" order="2" sideWeight="0.50095236" side_tool="true" weight="0.26127526" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4968896" weight="0.054054055" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5031104" side_tool="true" weight="0.054054055" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32972974" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.055219363" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/backoffice/entities/promotion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/meta.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="124" column="12" selection-start-line="124" selection-start-column="12" selection-end-line="124" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/views/footer.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/views/ajouterPromotion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms2.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="595" column="22" selection-start-line="595" selection-start-column="22" selection-end-line="595" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/views/form_promotion.html" />
+    <entry file="file://$PROJECT_DIR$/backoffice/views/modifierPromotion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-987">
+          <caret line="110" column="21" selection-start-line="110" selection-start-column="21" selection-end-line="110" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/views/form_promotion.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/views/ajouterEvenement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/views/confirmation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="123" selection-start-line="20" selection-start-column="123" selection-end-line="20" selection-end-column="123" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/views/form-events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3060">
+          <caret line="180" column="14" selection-start-line="180" selection-start-column="14" selection-end-line="180" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/views/shop-detail-1.html" />
+    <entry file="file://$PROJECT_DIR$/backoffice/views/formulaire_evenement.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="60" column="12" selection-start-line="23" selection-start-column="8" selection-end-line="60" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/views/supprimerEvenement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/views/modifierEvenement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/views/supprimerPromotion.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/views/shop-detail-1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1683">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+          <folding>
+            <element signature="e#36462#36469#1#HTML" expanded="true" />
+            <element signature="e#37777#37783#0#HTML" expanded="true" />
+            <element signature="e#38811#38818#1#HTML" expanded="true" />
+            <element signature="e#41268#41275#1#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/views/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/views/formulaire_inscription.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="123" selection-start-line="42" selection-start-column="123" selection-end-line="42" selection-end-column="123" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#0;n#fieldset#0;n#form#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#fieldset#0;n#form#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#2;n#fieldset#0;n#form#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#3;n#fieldset#0;n#form#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#5;n#fieldset#0;n#form#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/views/formulaire_validation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/views/formulaire_evenement.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/views/about-us.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/views/404.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/views/rechercherClient.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/Connexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/imprimer.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/core/clients_core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/Connexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="31" column="25" selection-start-line="10" selection-start-column="7" selection-end-line="31" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/views/pe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="440" column="43" selection-start-line="440" selection-start-column="43" selection-end-line="440" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/tables.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/views/afficherPromotion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="26" selection-end-line="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/views/rechercherpromotion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6834">
+          <caret line="402" column="17" selection-start-line="385" selection-start-column="10" selection-end-line="402" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/views/participer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/core/clients_core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="76" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/core/participantC.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="28" column="42" selection-start-line="26" selection-start-column="16" selection-end-line="28" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/views/authentification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/views/signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10863">
+          <caret line="639" selection-start-line="639" selection-end-line="658" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/views/authentif_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/views/ajouterclient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="55" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/views/ajouterClient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="2" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/views/verif_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/views/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="133" column="9" selection-start-line="133" selection-start-column="9" selection-end-line="133" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/entities/client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/core/promotion_core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2227">
+          <caret line="131" column="32" selection-start-line="131" selection-start-column="13" selection-end-line="131" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/views/promo_event.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/views/afficherEvenement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" column="9" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/views/form-events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2057">
+          <caret line="121" column="40" selection-start-line="121" selection-start-column="40" selection-end-line="127" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backoffice/core/events_core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2346">
+          <caret line="138" column="1" selection-start-line="130" selection-end-line="138" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontoffice/views/my-account.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="575" column="14" selection-start-line="535" selection-start-column="8" selection-end-line="575" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
